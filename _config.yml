@@ -47,6 +47,8 @@ skills: true
 skills-list:
     - Scala
     - Docker
+    - Reactive architectures
+    - Distributed systems
     - AWS
     - Certified Scrum Master
 
