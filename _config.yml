@@ -51,7 +51,7 @@ skills-list:
     - Certified Scrum Master
 
 # do you want to display a projects section? true or false
-projects: true
+projects: false
 
 # add your projects here
 # project-list:
