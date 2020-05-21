@@ -45,12 +45,18 @@ skills: true
 
 # add your skills here
 skills-list:
-    - Scala
-    - Docker
-    - Reactive architectures
-    - Distributed systems
-    - AWS
-    - Certified Scrum Master
+    - Agile Team Leadership, Motivation & Coaching 
+    - Certified Scrum Master 
+    - Certified Kanban KMP1 
+    - Lean Processes 
+    - Stakeholder Management 
+    - Information System Analysis & Design 
+    - Scala 
+    - Functional Programming 
+    - Reactive Architecture 
+    - FinTech & Blockchain Technology 
+  
+
 
 # do you want to display a projects section? true or false
 projects: false
