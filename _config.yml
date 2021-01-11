@@ -60,11 +60,11 @@ skills-list:
 # do you want to display a projects section? true or false
 projects: true
 
-add your projects here
+# add your projects here
 project-list:
     Eve:
         name: DevKan
-        description: Developper-focused Kanban project management tool. Follow our <a href='https://devkan.io/blog'>blog</a>!
+        description: Developper-focused Kanban project management tool. Follow our <a href='https://devkan.io/blog'>blog</a>
         url: https://devkan.io
 
 # do you want to display the theme attribution? true or false
