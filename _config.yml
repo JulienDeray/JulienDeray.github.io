@@ -62,7 +62,7 @@ projects: true
 project-list:
     DevKan:
         name: DevKan
-        description: Developper-focused Kanban project management tool. Follow our <a href='https://devkan.io/blog'>blog</a>
+        description: Developper-focused Kanban project management tool.<br/>Explore our <a href='https://devkan.io/blog'>blog</a>!
         url: https://devkan.io
 
 # do you want to display the theme attribution? true or false
