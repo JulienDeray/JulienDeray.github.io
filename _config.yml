@@ -62,7 +62,7 @@ projects: true
 project-list:
     DevKan:
         name: DevKan
-        description: Developper-focused Kanban project management tool.<br/>Explore our <a href='https://devkan.io/blog'>blog</a>!
+        description: Developper-focused Kanban project management tool. Most Kanban boards out there don't implement the actual spec, preventing devs to get the most out of Kanban. DevKan offers an easy solution to unleash Kanban's power with no compromise. Built for devs, by devs. <br/>Explore our <a href='https://devkan.io/blog'>blog</a>!
         url: https://devkan.io
 
 # do you want to display the theme attribution? true or false
