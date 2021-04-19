@@ -63,7 +63,7 @@ project-list:
     blog:
         name: Personal Blog
         description: Check out my blog where I mostly talk about Kanban best practices and personal productivity tools.
-        url: http://blog.deray.fr
+        url: https://julienderay.github.io/blog.html
 
 # do you want to display the theme attribution? true or false
 footer: true
