@@ -64,6 +64,10 @@ project-list:
         name: Personal Blog
         description: Check out my blog where I mostly talk about Kanban best practices and personal productivity tools.
         url: https://julienderay.github.io/blog.html
+    podcast:
+        name: Podcast about Agile Methodologies (French)
+        description: A podcast where Pierre Féray-Ferrant and myself exchange monthly about our agile problematics, practices and tools.
+        url: https://agilistes.captivate.fm
 
 # do you want to display the theme attribution? true or false
 footer: true
